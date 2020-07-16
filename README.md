@@ -1,2 +1,2 @@
-# nasim-resume
-This is my brother's (Nasim Uddin) resume. I created in Microsoft word.
+# my-resume
+This is my resume. I created in Microsoft word.
